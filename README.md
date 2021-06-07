@@ -5,6 +5,7 @@ _Simple IP Lookup Coded in C# with Windows Forms._
 ### Install 🌙
 ```
 Release as a normal project
+Add the font that is in the project (ProggyClean)
 ```
 
 ### Usage 💨
