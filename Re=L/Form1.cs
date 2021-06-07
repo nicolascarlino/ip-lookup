@@ -14,6 +14,8 @@ namespace Re_L
 {
     public partial class Window : Form
     {
+        AddFontResource("ProggyClean.ttf/ProggyClean.ttf");
+        
         public Window()
         {
             InitializeComponent();
