@@ -2,7 +2,7 @@
 
 _Simple IP Lookup Coded in C# with Windows Forms._
 
-### Install🌙
+### Install 🌙
 ```
 Release as a normal project
 ```
