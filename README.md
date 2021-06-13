@@ -15,7 +15,7 @@ Enter the IP On the text box, and press the "Lookup" button
 
 ### Gui 🪐
 <p align="center">
-  <image src="https://cdn.discordapp.com/attachments/845850717771530243/851468162016739368/gui.PNG">
+  <image src="https://media.discordapp.net/attachments/853362973585440768/853671497821716490/unknown.png">
 </p>
 
 ## Notes ⭐
